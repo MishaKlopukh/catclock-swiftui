@@ -3,6 +3,11 @@
 The games/catclock app from plan9, rewritten in SwiftUI for iOS and MacOS -
 because who doesn't need a little more cat in their lives :)
 
+## Testflight Link
+
+Try the app on testflight here:
+<https://testflight.apple.com/join/RryZzbfa>
+
 ## License
 
 ```
